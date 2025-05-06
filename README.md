@@ -67,8 +67,8 @@ Developed by [Amjad Alo](https://github.com/AmjadAlo)
 
 ## 🎥 Demo
 
-- 📌 [Demo 1 – Video QA + Transcription](https://drive.google.com/file/d/1xZZkoffVqn7h5GwBOcc-eQ7Q0igb-qaR/view?usp=drive_link)
-- 📌 [Demo 2 – Quiz Generation & Summary Email](https://drive.google.com/file/d/1u_V05TL0HGi1f1H7-D4ypmqgVB_iPZUP/view?usp=drive_link)
-- 📌 Demo 3 – Coming soon!
+- 📌 [Demo 1 –5min_video](https://drive.google.com/file/d/1xZZkoffVqn7h5GwBOcc-eQ7Q0igb-qaR/view?usp=drive_link)
+- 📌 [Demo 2 – 5min_video](https://drive.google.com/file/d/1u_V05TL0HGi1f1H7-D4ypmqgVB_iPZUP/view?usp=drive_link)
+- 📌 [Demo 3 – 5min_video](https://drive.google.com/file/d/1zd2WUwRYWawYvYEvd6eSS2KU8nzBa1EO/view?usp=drive_link)
 
 
