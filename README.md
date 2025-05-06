@@ -65,8 +65,10 @@ Store these as environment variables or use directly in code (as currently confi
 Developed by [Amjad Alo](https://github.com/AmjadAlo)  
 📫 For issues, suggestions, or collaboration, feel free to reach out via GitHub.
 
-
 ## 🎥 Demo
 
-[![Watch the demo](https://drive.google.com/file/d/1u_V05TL0HGi1f1H7-D4ypmqgVB_iPZUP/view?usp=drive_link)](https://drive.google.com/file/d/1xZZkoffVqn7h5GwBOcc-eQ7Q0igb-qaR/view?usp=drive_link)()
+- 📌 [Demo 1 – Video QA + Transcription](https://drive.google.com/file/d/1xZZkoffVqn7h5GwBOcc-eQ7Q0igb-qaR/view?usp=drive_link)
+- 📌 [Demo 2 – Quiz Generation & Summary Email](https://drive.google.com/file/d/1u_V05TL0HGi1f1H7-D4ypmqgVB_iPZUP/view?usp=drive_link)
+- 📌 Demo 3 – Coming soon!
+
 
